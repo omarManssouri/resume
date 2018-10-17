@@ -1,0 +1,9 @@
+body {
+  background: gray;
+}
+
+div {
+  background: white;
+  border : 2px solid gray;
+  padding: 20px 20px;
+}
