@@ -1,17 +1,28 @@
+/*
+global
+*/
 body {
-  background: gray;
+  background: #e5e5e5;
+}
+.work,
+.education,
+.contact{
+  background: #ffffff;
+  margin-top: 20px;
+  padding: 20px;
+  
+  border: solid #c6c7c7;
+  border-width: 0px 1px 2px;
+  border-right-color: #d6d6d6;
+  border-bottom-color: #c6c7c7;
+  border-left-color: #d6d6d6;
 }
 
-.divStyle {
-  background: white;
-  border : 2px solid gray;
-  padding: 20px 20px;
-}
-img {
-  width: 20%;
-  border:1px solid gray;
+/*
+header
+*/
 
-}
-.addOnLeft {
-  text-align: left;
+.header {
+  background: #4dbfd9;
+  padding: 20px;
 }
